@@ -11,7 +11,15 @@ Difficulty switching
 <a href="https://ibb.co/V9Kgh0S"><img src="https://i.ibb.co/XLw7dfs/easypro.jpg" alt="easypro" border="0"></a>
 <br/>
 
+To Do list
+- [x] Basic practice with 3 difficulty modes
+- [ ] Scoreboard for total solved, number of mistakes and so on
+- [ ] Inculding different types of mathematical problems and choose the needed type.
+
+<br/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
