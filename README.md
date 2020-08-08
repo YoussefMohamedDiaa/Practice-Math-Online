@@ -1,7 +1,8 @@
 # Description
 Online platform for practicing math problems written using React Hooks technology.
+<br/>
 <a href="https://ibb.co/3M903sN"><img src="https://i.ibb.co/3M903sN/hardpro.jpg" alt="hardpro" border="0"></a>
-
+<br/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
