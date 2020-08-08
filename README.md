@@ -1,7 +1,6 @@
 # Description
 Online platform for practicing math problems written using React Hooks technology.
-
-<a href="https://ibb.co/3M903sN"><img src="https://i.ibb.co/D8H7JbC/hardpro.jpg" alt="hardpro" border="0"></a><br /><a target='_blank' href='https://nonprofitlight.com/ca/los-angeles/yeshiva-university-of-los-angeles-boys-high-school'>yeshiva university high schools of los angeles</a><br />
+<a href="https://ibb.co/3M903sN"><img src="https://i.ibb.co/3M903sN/hardpro.jpg" alt="hardpro" border="0"></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
